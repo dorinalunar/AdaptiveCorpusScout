@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "id": "defi_research",
+      "records": [
+        {
+          "id": "doc_01",
+          "text": "Automated yield harvesting executes every 24 hours on-chain using a decentralized keeper network."
+        },
+        {
+          "id": "doc_02",
+          "text": "Liquidity pool rebalancing threshold is set to 50 basis points to prevent impermanent loss."
+        }
+      ]
+    },
+    {
+      "id": "gov_proposals",
+      "records": [
+        {
+          "id": "doc_03",
+          "text": "Emergency timelock delays contract upgrades by 48 hours after a successful governance vote."
+        },
+        {
+          "id": "doc_04",
+          "text": "Quorum requires at least 10 percent of staked governance tokens to be actively voting."
+        }
+      ]
+    }
+  ]
+}
